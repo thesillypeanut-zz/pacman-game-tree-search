@@ -1,4 +1,4 @@
-# pacman-heuristic-search
+# pacman-game-tree-search
 
 Multiple agents for the classic version of Pacman, including ghosts, are implemented using Minimax, Alpha-Beta Pruning, Expectimax heuristic search techniques and different evaluation functions.
 
